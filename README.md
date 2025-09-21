@@ -1,6 +1,6 @@
 # 🌟 Hi, I'm Isha Anand!  
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Full+Stack+Developer;AI+Enthusiast;Always+Eager+Learning+New+Technology+🚀;Building+Cool+Projects+💡" alt="Typing SVG" />
 </p>
 
@@ -51,13 +51,14 @@
 ---
 
 ## 🚀 Featured Projects  
-
-- 🌦️ [Weather App](https://github.com/dev-Isha-Anand/Weather-App) – Real-time weather updates with a clean UI  
-- ❌⭕ [Tic Tac Toe Game](https://github.com/dev-Isha-Anand/tic-tac-toe-game) – Interactive classic game  
+ 
 - 🤖 [AI Chatbot](https://github.com/dev-Isha-Anand/Ai_Chatbot) – Smart conversational bot using AI  
-- ⏱ [Stopwatch](https://github.com/dev-Isha-Anand/Stopwatch-web-page) – Elegant stopwatch app  
+- 🎖 [SainikHire](https://github.com/SHRISTI-125/SainikHire) – AI-powered job platform *(Team Project)* 
+
 - 🔢 [Number Guessing Game](https://github.com/dev-Isha-Anand/Number-Guessing-Game) – Fun logical game  
-- 🎖 [SainikHire](https://github.com/SHRISTI-125/SainikHire) – AI-powered job platform *(Team Project)*  
+- 🌦️ [Weather App](https://github.com/dev-Isha-Anand/Weather-App) – Real-time weather updates with a clean UI  
+- ❌⭕ [Tic Tac Toe Game](https://github.com/dev-Isha-Anand/tic-tac-toe-game) – Interactive classic game
+- ⏱ [Stopwatch](https://github.com/dev-Isha-Anand/Stopwatch-web-page) – Elegant stopwatch app  
 
 ---
 
