@@ -1,7 +1,7 @@
 # 🌟 Hi, I'm Isha Anand!  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Chatbot+Enthusiast;Always+Learning+🚀;Building+Cool+Projects+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Full+Stack+Developer;AI+Enthusiast;Always+Eager+Learning+New+Technology+🚀;Building+Cool+Projects+💡" alt="Typing SVG" />
 </p>
 
 ---
@@ -40,6 +40,12 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dev-Isha-Anand&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
+
+---
+
+## 📈 Isha Anand's Contribution Graph  
+
+[![Isha Anand's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-Isha-Anand&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
