@@ -1,8 +1,9 @@
 # 🌟 Hi, I'm Isha Anand!  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Full+Stack+Developer;AI+Enthusiast;Always+Eager+Learning+New+Technology+🚀;Building+Cool+Projects+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Full+Stack+Developer;AI+Enthusiast;Always+Eager+Learning+New+Technology+🚀;Building+Cool+Projects+💡" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -64,7 +65,7 @@
 
 <p>
   <a href="https://github.com/dev-Isha-Anand"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-here"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://www.linkedin.com/in/isha-anand-205a432b7"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 </p>
 
 ---
