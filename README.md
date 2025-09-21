@@ -1,15 +1,13 @@
 # 🌟 Hi, I'm Isha Anand!  
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Full+Stack+Developer;AI+Enthusiast;Always+Eager+Learning+New+Technology+🚀;Building+Cool+Projects+💡" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=💻+Web+Developer;🤖+AI+Chatbot+Builder;🚀+Passionate+Learner;📚+Exploring+New+Tech)](https://git.io/typing-svg)
 
 
 ---
 
 ## 👩🏻‍💻 About Me  
 
-- 🎓 Final year **CSE student** with a love for solving problems  
+- 🎓 Final year **CSE student** passionate about solving problems  
 - 💡 Worked on **AI, Web Development, and Chatbots**  
 - 🌱 Continuously learning and experimenting with **new technologies**  
 - 🚀 Believe in **“Learning by Building”**  
